@@ -1,2 +1,2 @@
-# Projeto_Flexbox
-Desenvolvimento de página usando elementos do Flexbox em CSS
+# Projeto Flexbox
+Desenvolvimento de página de turismo utilizando CSS e Flexbox.
